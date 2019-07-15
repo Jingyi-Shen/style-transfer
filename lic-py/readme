@@ -1,4 +1,7 @@
 //How to run>:
+
 python setup.py build_ext --inplace
+
 python lic_demo.py 
+
 //python lic_1.py //this is what I use for 'images_rand_shape'
